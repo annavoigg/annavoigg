@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Giovanna Gomes! 👋
 
 
-- 🔭 Estou trabalhando com HTML e CSS.
-- 🌱 Estou atualmente aprendendo Bootstrap e JavaScript
+🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java
+- 🌱 Estou atualmente estudando Bootstrap e JavaScript.
 - 📫 Contate-me em: gomesgiovana006@gmail.com
 - 😄 Pronomes: ela/dela
 
