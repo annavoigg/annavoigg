@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovanna Gomes! 👋
 
 
-🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java
+- 🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java
 - 🌱 Estou atualmente estudando Bootstrap e JavaScript.
 - 📫 Contate-me em: gomesgiovana006@gmail.com
 - 😄 Pronomes: ela/dela
