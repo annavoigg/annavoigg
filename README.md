@@ -1,7 +1,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+Me+chamo+Giovanna.;&font=Fira%20Code&color=D62896&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World.+;&font=Press+Start+2P&color=D62896&center=true&width=800&height=50">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Eu+sou+a+Giovanna!;&font=Press+Start+2P&color=D62896&center=true&width=800&height=40">
 </p>
 
 ##
