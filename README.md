@@ -6,13 +6,15 @@
 
 ##
 
-
-
-- 🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java
-- 🌱 Estou atualmente estudando React e JavaScript.
-- 📫 Contate-me: gomesgiovana006@gmail.com
-- 😄 Pronomes: ela/dela
-
+<!--sobre mim -->
+<div>
+<ul>
+    <li>🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java</li>
+    <li>🌱 Estou atualmente estudando React e JavaScript. </li>
+    <li>📫 Contate-me: gomesgiovana006@gmail.com </li>
+    <li>😄 Pronomes: ela/dela </li>
+</ul>
+</div>
 
 <!-- stats -->
 <div align="center">
