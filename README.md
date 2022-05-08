@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+Me+chamo+Giovanna.;&font=Fira%20Code&color=F72E95&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+Me+chamo+Giovanna.;&font=Fira%20Code&color=D62896&center=true&width=380&height=50">
 </p>
 
 ##
@@ -10,7 +10,7 @@
 
 - 🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java
 - 🌱 Estou atualmente estudando React e JavaScript.
-- 📫 Contate-me em: gomesgiovana006@gmail.com
+- 📫 Contate-me: gomesgiovana006@gmail.com
 - 😄 Pronomes: ela/dela
 
 
