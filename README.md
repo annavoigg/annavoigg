@@ -13,9 +13,10 @@
 <!--sobre mim -->
 <div>
 <ul>
-    <li>🎓 Aluna do Instituto PROA, cursando desenvolvimento Web Java</li>
+    <li>🎓 Ex aluna do Instituto PROA,curso voltado para a programação Web Java</li>
     <li>🌱 Estou atualmente estudando React e JavaScript. </li>
     <li>📫 Contate-me: gomesgiovana006@gmail.com </li>
+    <li>LinkedIn: linkedin.com/in/giovanna-gomes-cortez/ </li>
     <li>😄 Pronomes: ela/dela </li>
 </ul>
 </div>
