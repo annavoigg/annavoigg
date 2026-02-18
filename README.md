@@ -13,9 +13,9 @@
 <!--sobre mim -->
 <div>
 <ul>
-    <li>🎓 Back-End Developer</li>
-    <li>🛠 Current Tech Stack: C# | .NET | ASP.NET Core | PostgreSQL | AWS </li>
-    <li>📚 Previous Experience: JavaScript | HTML | CSS </li>
+    <li>💻 Back-End Developer</li>
+    <li>🛠 Tech Stack: C# | .NET | ASP.NET Core | PostgreSQL | AWS | Docker</li>
+    <li>📚 Background: JavaScript | HTML | CSS </li>
     <li>📫 Contact: gomesgiovanna006@gmail.com </li>
     <li>📖 LinkedIn: linkedin.com/in/giovanna-gomes-cortez/ </li>
     <li>😄 Pronouns: she/her </li>
@@ -31,7 +31,6 @@
   <img align="center" alt="Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt=".NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" >
-  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- Mais Icons: https://devicon.dev/ -->
   </div>
   
