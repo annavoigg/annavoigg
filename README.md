@@ -16,7 +16,7 @@
     <li>🎓 Back-End Jr. Developer</li>
     <li>🛠 Current Tech Stack: C# | .NET | ASP.NET Core | PostgreSQL | AWS </li>
     <li>📚 Previous Experience: JavaScript | HTML | CSS </li>
-    <li>📫 Contact: gomesgiovana006@gmail.com </li>
+    <li>📫 Contact: gomesgiovanna006@gmail.com </li>
     <li>📖 LinkedIn: linkedin.com/in/giovanna-gomes-cortez/ </li>
     <li>😄 Pronouns: she/her </li>
 </ul>
